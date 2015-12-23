@@ -98,7 +98,7 @@
             "type": 0
         },
         {
-            "text": "https://www.weplus.cn",
+            "text": "http://www.sublulu.com",
             "format": 1,
             "line": 2,
             "type": 2

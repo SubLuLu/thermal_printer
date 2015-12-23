@@ -113,7 +113,7 @@
 > 类似`{$logo}`是模板中指定的占位符，能够更好的支持个性化  
 
 ### 模板参数规则
-![模板打印参数](./打印内容.png)  
+![模板打印参数](https://github.com/SubLuLu/thermal_printer/raw/master/img/打印内容.png)  
 
 ### goods参数详解  
 
@@ -157,7 +157,7 @@
   "keys": {
     "shopname": "黄太吉",
     "barCode": "6921734976505",
-    "qrCode": "https://www.sublulu.com",
+    "qrCode": "http://www.sublulu.com",
     "time": "15:35",
     "num": 14,
     "cash": 324.5,
@@ -194,7 +194,7 @@
 
 ### 打印效果  
 
-![打印效果](./打印效果.JPG)  
+![打印效果](https://github.com/SubLuLu/thermal_printer/raw/master/img/打印效果.JPG)  
 
 ## **• 使用示例**  
 
@@ -261,13 +261,13 @@ EscPos工具类对外质保路了两种方法，且均为静态方法：
 使用起来相当方便，但其流程略显复杂
 
 ### 打印主流程图
-![主流程图](./主流程图.bmp)  
+![主流程图](https://github.com/SubLuLu/thermal_printer/raw/master/img/主流程图.bmp)  
 
 ### goods打印流程图
-![goods流程图](./goods流程图.bmp)
+![goods流程图](https://github.com/SubLuLu/thermal_printer/raw/master/img/goods流程图.bmp)
 
 ### header、bill、footer打印主流程图
-![区域流程图](./区域流程图.bmp)
+![区域流程图](https://github.com/SubLuLu/thermal_printer/raw/master/img/区域流程图.bmp)
 
 
 ## • 网络参考资料

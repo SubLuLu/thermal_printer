@@ -269,6 +269,11 @@ EscPos工具类对外质保路了两种方法，且均为静态方法：
 ### header、bill、footer打印主流程图
 ![区域流程图](https://github.com/SubLuLu/thermal_printer/raw/master/img/区域流程图.bmp)
 
+## • 无耻地求赏
+
+![微信打赏](https://github.com/SubLuLu/thermal_printer/raw/master/img/IMG_6745.JPG)
+![支付宝打赏](https://github.com/SubLuLu/thermal_printer/raw/master/img/IMG_6746.JPG)
+
 
 ## • 网络参考资料
 
